@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyAspNetCoreApp.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyAspNetCoreApp.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\css\\example.css",
+      "PackagePath": "staticwebassets\\css\\example.css"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\02f6bebd-aa91-41cb-bb94-b645b4c3c22b.png",
+      "PackagePath": "staticwebassets\\images\\02f6bebd-aa91-41cb-bb94-b645b4c3c22b.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\03591797-1ea4-4bb6-9d26-ed1039819bf9.png",
+      "PackagePath": "staticwebassets\\images\\03591797-1ea4-4bb6-9d26-ed1039819bf9.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\103e11f0-33c3-4234-b9d2-44b1466d55f8.png",
+      "PackagePath": "staticwebassets\\images\\103e11f0-33c3-4234-b9d2-44b1466d55f8.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\18123022-65b6-4d83-8681-c8a2e470f752.jpg",
+      "PackagePath": "staticwebassets\\images\\18123022-65b6-4d83-8681-c8a2e470f752.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\1f5b5e48-d8f3-491c-8eab-ab6944a63785.jpg",
+      "PackagePath": "staticwebassets\\images\\1f5b5e48-d8f3-491c-8eab-ab6944a63785.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\4701be7a-e8af-4c95-a5fd-0fae081dc48a.jpg",
+      "PackagePath": "staticwebassets\\images\\4701be7a-e8af-4c95-a5fd-0fae081dc48a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\4c8372d2-b53c-45d3-bef5-d658e392f23f.png",
+      "PackagePath": "staticwebassets\\images\\4c8372d2-b53c-45d3-bef5-d658e392f23f.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\666cacee-5f8a-4b58-83b8-28626e26c078.png",
+      "PackagePath": "staticwebassets\\images\\666cacee-5f8a-4b58-83b8-28626e26c078.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\670cbd45-782e-4ed9-90c0-18a000916ae6.png",
+      "PackagePath": "staticwebassets\\images\\670cbd45-782e-4ed9-90c0-18a000916ae6.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\690e94cf-3290-4025-9bb0-5ba71b845efe.png",
+      "PackagePath": "staticwebassets\\images\\690e94cf-3290-4025-9bb0-5ba71b845efe.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\704da863-1717-4ab3-89dd-9e3881988d99.png",
+      "PackagePath": "staticwebassets\\images\\704da863-1717-4ab3-89dd-9e3881988d99.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\73ba450f-f0e3-417b-850b-8923a706af8f.png",
+      "PackagePath": "staticwebassets\\images\\73ba450f-f0e3-417b-850b-8923a706af8f.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\85bf2574-6071-41d3-af2c-ec688b404764.png",
+      "PackagePath": "staticwebassets\\images\\85bf2574-6071-41d3-af2c-ec688b404764.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\85df0739-d627-4911-8301-4c8876188ca8.png",
+      "PackagePath": "staticwebassets\\images\\85df0739-d627-4911-8301-4c8876188ca8.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\938342e2-dc66-4381-b4b1-9ffdf3df2334.png",
+      "PackagePath": "staticwebassets\\images\\938342e2-dc66-4381-b4b1-9ffdf3df2334.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\97692d8a-4de8-4807-b47c-163c327aef43.png",
+      "PackagePath": "staticwebassets\\images\\97692d8a-4de8-4807-b47c-163c327aef43.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\992161d1-3c4f-41e8-a34e-9cd76efa108a.png",
+      "PackagePath": "staticwebassets\\images\\992161d1-3c4f-41e8-a34e-9cd76efa108a.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\No-Image-Placeholder.svg.png",
+      "PackagePath": "staticwebassets\\images\\No-Image-Placeholder.svg.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\ad2318a1-81dc-4633-aca9-77314041f918.png",
+      "PackagePath": "staticwebassets\\images\\ad2318a1-81dc-4633-aca9-77314041f918.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\c0c0c67e-02de-4e3c-b273-01e58a9b7d59.png",
+      "PackagePath": "staticwebassets\\images\\c0c0c67e-02de-4e3c-b273-01e58a9b7d59.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\car-100x100.jpg",
+      "PackagePath": "staticwebassets\\images\\car-100x100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\car.jpg",
+      "PackagePath": "staticwebassets\\images\\car.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\e1665357-3b52-4ae0-b04a-a504fda3610b.png",
+      "PackagePath": "staticwebassets\\images\\e1665357-3b52-4ae0-b04a-a504fda3610b.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\e85cf780-fb8b-407e-96a9-ef0d6b1b4c58.png",
+      "PackagePath": "staticwebassets\\images\\e85cf780-fb8b-407e-96a9-ef0d6b1b4c58.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\ee4595b5-440d-45c0-be75-51929dd56ab6.jpg",
+      "PackagePath": "staticwebassets\\images\\ee4595b5-440d-45c0-be75-51929dd56ab6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\ef012a4d-917b-4cf6-9210-881ea88193df.png",
+      "PackagePath": "staticwebassets\\images\\ef012a4d-917b-4cf6-9210-881ea88193df.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\fc4f5084-a1aa-4871-93ae-929528849b3b.png",
+      "PackagePath": "staticwebassets\\images\\fc4f5084-a1aa-4871-93ae-929528849b3b.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\germany.png",
+      "PackagePath": "staticwebassets\\images\\germany.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\harry-potter.jpg",
+      "PackagePath": "staticwebassets\\images\\harry-potter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\images\\uk.png",
+      "PackagePath": "staticwebassets\\images\\uk.png"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EMREBAYKUŞAK\\RiderProjects\\MyAspNetCoreApp\\MyAspNetCoreApp.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MyAspNetCoreApp.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MyAspNetCoreApp.Web.props",
+      "PackagePath": "build\\MyAspNetCoreApp.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MyAspNetCoreApp.Web.props",
+      "PackagePath": "buildMultiTargeting\\MyAspNetCoreApp.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MyAspNetCoreApp.Web.props",
+      "PackagePath": "buildTransitive\\MyAspNetCoreApp.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

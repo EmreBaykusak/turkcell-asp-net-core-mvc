@@ -1,0 +1,82 @@
+﻿@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+@section Scripts
+{
+    <script type="text/javascript">
+    $(document).ready(function(){
+           function loadComment(){
+                    $("#spinner").show();
+                    $.ajax({
+                            type:"GET",
+                            url:"/VisitorAjax/VisitorCommentList",
+                            success:function(jsonData)
+                            {
+                            $("#comments").html("");
+                            $.each(jsonData,function(index,item){
+                                let comment = `<div class="card mt-3" style="width: 18rem;">
+                                               <div class="card-body">
+                                                 <h5 class="card-title">${item.name}</h5>
+                                                 <h6 class="card-subtitle mb-2 text-muted">${item.date}</h6>
+                                                 <p class="card-text">${item.comment}</p>
+                                               </div>
+                                             </div>`
+                                             $("#comments").append(comment);
+                            })
+                            $("#spinner").hide();
+                            },
+                            error:function(er)
+                            {
+                            console.log(er);
+                            } 
+                            })    
+                    }
+                    loadComment();
+        $("#btnSave").click(function(){
+         
+            var name = $("#Name").val();
+            var comment = $("#Comment").val();
+            
+            var jsonData = {"name": name, "comment": comment};
+            
+            $.ajax({
+            type:"POST",
+            url:"/VisitorAjax/SaveVisitorComment",
+            data:jsonData,
+            success:function(){
+            alert("Comment saved successfully");
+            loadComment();
+            },
+            error:function(er){
+                console.log(er);
+            } 
+            })            
+        })
+    })
+    </script>
+}
+  
+<div class="mb-3">
+    <label for="Name" class="form-label">Name</label>
+    <input id="Name" name="Name" class="form-control" >
+  </div>
+  <div class="form-floating mb-3">
+      <textarea id="Comment" name="Comment" class="form-control" placeholder="Please enter the comment about the product here" style="height: 100px"></textarea>
+      <label for="Comment">Comment</label>
+      </div>
+
+<button id="btnSave" type="button" class="btn btn-primary">Submit</button>
+
+<div id="spinner">
+        <div class="d-flex justify-content-center">
+                <div class="spinner-border" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                </div>
+            </div>
+    </div>
+<div id="comments">
+    
+</div>
+
+

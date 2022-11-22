@@ -1,0 +1,54 @@
+﻿@model List<ProductViewModel>
+
+@{
+    ViewBag.Title = "Pages";
+    Layout = "_Layout";
+}
+
+<h2>Page: @ViewBag.page</h2>
+<h2>Page Size: @ViewBag.pageSize</h2>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Stock</th>
+        <th>Color</th>
+        <th>Publish Status</th>
+        <th>Publish Time</th>
+        <th>Description</th>
+        <th>Operation</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Price</td>
+            <td>@item.Stock</td>
+            <td>@item.Color</td>
+            <td>@(item.IsPublish ? "Active" : "Passive")</td>
+            <td>@item.Expire</td>
+            <td>
+                @if (item.Description.Length > 20)
+                {
+                    @item.Description[..20]<text>...</text>
+                }
+                else
+                {
+                    @item.Description
+                }
+            </td>
+            <td>
+                <a asp-controller="Products" asp-action="Remove" asp-route-id="@item.Id">Delete</a>
+                <a asp-controller="Products" asp-action="Update" asp-route-id="@item.Id">Update</a>
+                <a asp-controller="Products" asp-action="GetById" asp-route-id="@item.Id">Show</a>
+            </td>
+        </tr>    
+    }
+    </tbody>
+</table>

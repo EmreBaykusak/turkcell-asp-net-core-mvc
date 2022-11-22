@@ -1,0 +1,66 @@
+﻿@using System.Collections
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Example Controller, Index Page</h1>
+
+@section Css
+{
+    <link rel="stylesheet" href="~/css/example.css" asp-append-version="true"/>
+
+    <style>
+        h1
+        {
+            color: crimson;
+            background-color: #1c1f23;
+        }
+       
+    </style>
+}
+
+@section Scripts
+{
+    <script type="text/javascript">
+        alert("Welcome to the index page.")
+        $(document).ready(function(){
+          console.log("Welcome to the index page.")  
+        })
+    </script>
+}
+
+@{
+    var name = ViewBag.name;
+    
+    <p>@name</p>
+}
+<p>@ViewBag.name</p>
+
+<p>@ViewBag.name</p>
+
+<hr/>
+
+<p>Age: @ViewData["age"]</p>
+
+<h2>Names</h2>
+
+@foreach (var item in (IEnumerable)ViewData["names"])
+{
+    <p>@item</p>
+}
+
+@model List<MyAspNetCoreApp.Web.Controllers.ExampleController.Player>
+
+@foreach (var item in Model)
+{
+    <p>@item.Id - @item.Name</p>
+}
+
+<div>Date: @DateTime.Now.ToShortDateString()</div>
+@{
+    var dateTime = DateTime.Now.ToShortDateString();
+    const string message = "message";
+    @: Date: @dateTime
+    <div><text>@dateTime</text></div>
+    <div>message: @message</div>
+}

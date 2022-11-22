@@ -1,0 +1,81 @@
+﻿@{
+    ViewBag.Title = "Products";
+    Layout = "_Layout";
+}
+
+
+<h2>Products</h2>
+@if(TempData["status"] != null)
+    {
+        <div class="alert alert-dark" role="alert">
+            @TempData["status"]
+        </div>
+    }
+@model List<ProductViewModel>
+<a asp-controller="Products" asp-action="Add">Add Product</a>
+<table class="table">
+    <thead>
+    <tr>
+        <th>Id</th>
+        <th>Image</th>
+        <th>Category</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Stock</th>
+        <th>Color</th>
+        <th>Publish Status</th>
+        <th>Publish Time</th>
+        <th>Description</th>
+        <th>Operation</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>
+                @if (!string.IsNullOrEmpty(item.ImagePath))
+                {
+                    <img style="width: 100px; height: 100px;" src="/images/@(item.ImagePath)"/>
+                }
+                else
+                {
+                    <img style="width: 100px; height: 100px;" src="/images/No-Image-Placeholder.svg.png"/>
+
+                }
+            </td>
+            <td>@item.CategoryName</td>
+            <td>@item.Name</td>
+            <td>@item.Price</td>
+            <td>@item.Stock</td>
+            <td>@item.Color</td>
+            <td>@(item.IsPublish ? "Active" : "Passive")</td>
+            <td>@item.Expire</td>
+            <td>
+                @if (item.Description.Length > 20)
+                {
+                    @item.Description[..20]<text>...</text>
+                }
+                else
+                {
+                    @item.Description
+                }
+            </td>
+            <td>
+                <a asp-controller="Products" asp-action="Remove" asp-route-id="@item.Id">Delete</a>
+                <a asp-controller="Products" asp-action="Update" asp-route-id="@item.Id">Update</a>
+                <a asp-route="product" asp-route-productId="@item.Id">Show</a>
+            </td>
+        </tr>    
+    }
+    </tbody>
+</table>
+<div>
+    <a asp-route="productPage" asp-route-page="1" asp-route-pageSize="3">First page with 3 items</a>
+    <a asp-route="productPage" asp-route-page="2" asp-route-pageSize="3">Second page with 3 items</a>
+</div>
+
+<div>
+    <a asp-controller="Blog" asp-action="Article" asp-route-name="article-name" asp-route-id="1">First article</a>
+</div>

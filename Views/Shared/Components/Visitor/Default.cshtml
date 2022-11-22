@@ -1,0 +1,31 @@
+﻿@model VisitorViewModel
+
+<h2>Comments</h2>
+@foreach (var item in ViewBag.visitorsViewModels as List<VisitorViewModel>)
+{
+  <div class="card mt-3" style="width: 18rem;">
+   <div class="card-body">
+     <h5 class="card-title">@item.Name</h5>
+     <h6 class="card-subtitle mb-2 text-muted">@item.Created.ToShortDateString()</h6>
+     <p class="card-text">@item.Comment</p>
+   </div>
+ </div>
+}
+
+<hr/>
+@if (TempData["result"] != null)
+{
+  <div class="alert alert-info">@TempData["result"]</div>
+}
+<form asp-controller="Home" asp-action="SaveVisitorComment" method="post">
+  <div class="mb-3">
+    <label asp-for="Name" class="form-label">Name</label>
+    <input asp-for="Name" class="form-control" >
+  </div>
+  <div class="form-floating mb-3">
+      <textarea asp-for="Comment" class="form-control" placeholder="Please enter the comment about the product here" style="height: 100px"></textarea>
+      <label asp-for="Comment">Comment</label>
+    </div>
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>

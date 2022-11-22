@@ -1,0 +1,157 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyAspNetCoreApp.Web
+build_property.RootNamespace = MyAspNetCoreApp.Web
+build_property.ProjectDir = C:\Users\EMREBAYKUŞAK\RiderProjects\MyAspNetCoreApp\MyAspNetCoreApp.Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\EMREBAYKUŞAK\RiderProjects\MyAspNetCoreApp\MyAspNetCoreApp.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/PartialViews/_ProductListPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFydGlhbFZpZXdzXF9Qcm9kdWN0TGlzdFBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/AppSettings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwU2V0dGluZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Blog/Article.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xBcnRpY2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Cookie/CookieCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29va2llXENvb2tpZUNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Cookie/CookieRead.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29va2llXENvb2tpZVJlYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Example2/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXBsZTJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Example2/NoLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXBsZTJcTm9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Example/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXBsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Example/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbXBsZVxJbmRleDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Home/Visitor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaXNpdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Products/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Products/GetById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcR2V0QnlJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Products/Pages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcUGFnZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Products/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Shared/Components/ProductList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvZHVjdExpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Shared/Components/ProductList/Type2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvZHVjdExpc3RcVHlwZTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Shared/Components/Visitor/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVmlzaXRvclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Shared/LayoutExample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dEV4YW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Shared/_FooterPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Shared/_HeaderPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Shared/_MenuPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51UGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/VisitorAjax/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRvckFqYXhcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EMREBAYKUŞAK/RiderProjects/MyAspNetCoreApp/MyAspNetCoreApp.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-um137pkak9

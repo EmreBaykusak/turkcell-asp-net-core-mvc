@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+    var product = new Product()
+    {
+        Id = 1, Name = "Book 25", Price = 100, Stock =
+            200
+    };
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <partial name="~/PartialViews/_ProductListPartialView.cshtml" model="@ViewBag.productListPartialViewModel"/>
+    </div>
+    <div class="col-md-4">
+        @* @await Component.InvokeAsync("ProductList", new {type=1}) *@
+        <vc:product-list type="1"></vc:product-list>
+    </div>
+        <div class="col-md-4">
+           <product-show product="product"></product-show>
+        </div>
+</div>
+
+<div>
+    <img src="/images/car.jpg"/>
+            <thumbnail image-src="/images/car.jpg"></thumbnail>
+</div>

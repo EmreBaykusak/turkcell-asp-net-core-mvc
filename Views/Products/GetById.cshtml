@@ -1,0 +1,42 @@
+﻿@model ProductViewModel
+
+@{
+    ViewBag.Title = "Product";
+    Layout = "_Layout";
+}
+
+<a class="btn btn-primary mb-3" asp-controller="Products" asp-action="Index">Go to the products</a>
+
+<h2>Product @Model.Name</h2>
+
+<div>
+    <ul>
+        <li>
+            Id: @Model.Id
+        </li>
+        <li>
+            Name: @Model.Name
+        </li>
+        <li>
+            Price: @Model.Price
+        </li>
+        <li>
+            Stock: @Model.Stock
+        </li>
+        <li>
+            Color: @Model.Color
+        </li>
+        <li>
+            Publish Time: @Model.Expire
+        </li>
+        <li>
+            Publish Status: @Model.IsPublish
+        </li>
+        <li>
+            Publish Date: @Model.PublishDate
+        </li>
+        <li>
+            Description: @Model.Description
+        </li>
+    </ul>
+</div>
